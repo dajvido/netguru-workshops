@@ -9,7 +9,7 @@ gem 'decent_decoration'
 gem 'devise'
 gem 'simple_form', '~> 3.1.0rc'
 gem 'bootstrap-sass', '~> 3.1.0'
-gem 'haml-rails'
+gem 'haml-rails', "~> 0.9"
 gem 'sass-rails', github: 'rails/sass-rails'
 gem 'coffee-rails'
 gem 'uglifier'
